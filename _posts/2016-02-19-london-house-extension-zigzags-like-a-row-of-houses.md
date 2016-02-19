@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.dezeen.com/2015/08/13/north-london-house-extension-bureau-de-change-architects-zigzags-row-gabled-houses/'
 title: London house extension zigzags like a row of houses
-datePublished: '2016-02-19T09:13:31.085Z'
-dateModified: '2016-02-19T09:11:20.256Z'
+datePublished: '2016-02-19T09:13:31.242Z'
+dateModified: '2016-02-19T09:11:16.508Z'
 sourcePath: _posts/2016-02-19-london-house-extension-zigzags-like-a-row-of-houses.md
 published: true
 inFeed: true
