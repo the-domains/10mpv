@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[10MPV]]></title>
         <description><![CDATA[10MPV]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/10mpv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 09:13:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 09:13:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/10mpv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[folds]]></title>
+            <description><![CDATA[<article><h1>folds</h1><p>A three storey period terrace house in North London, appealed for a scheme that would open up views to the adjoining Parkland Walk conservation area. The focal point of the project is a pleated roof at the back of the house, which appears to be formed from a flat surface, forced to crinkle up into a faceted structure, as it is pushed up against the exterior wall.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d2a2a3049778bebfd2f524866b4d892cc35f822.jpg"></article>]]></description>
+            <link>http://www.b-de-c.com/folds/</link>
+            <guid isPermaLink="false">9d3cab25-afc0-4a2d-8340-c8c4e9ef9d74</guid>
+            <pubDate>Fri, 19 Feb 2016 09:13:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[London house extension zigzags like a row of houses]]></title>
             <description><![CDATA[<article><h1>London house extension zigzags like a row of houses</h1><p>Bureau de Change Architects gave this north London house extension a pleated ceiling to create the illusion it has been squashed onto the rear of the brick terraced property (+ slideshow). Bureau de Change Architects, which was co-founded by Katerina Dionysopoulou and Billy Mavropoulos, positioned the extension in the sunken garden at the back of the house.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a02222773cdac9bcb9a41e3abb6b29f40718c267.jpg"></article>]]></description>
