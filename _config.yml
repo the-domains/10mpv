@@ -1,0 +1,28 @@
+name: 10MPV
+favicon: null
+layout_spectrum: 0.8415864575654268
+typography_spectrum: 0.368925396585837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.35894216946326196
+  lightness: 0.8763506184332073
+  saturation: 0.5115694620180875
+  rhythmicContrast: 0.09282394591718912
+purpose: []
